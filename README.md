@@ -2,4 +2,4 @@
 
 ---
 
-## <img src="assets/tip-h-component.svg" alt="Heading component icon" /> </svg>最新のリリースノートをご確認ください。
+## ![attention icon](assets/Unknown.svg)最新のリリースノートをご確認ください。
